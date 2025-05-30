@@ -1,0 +1,6 @@
+{
+  "delay": 3.5,
+  "memory_window": 10,
+  "perturbation_threshold": 0.65,
+  "memory_path": "memory_chain.json"
+}
