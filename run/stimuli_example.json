@@ -1,0 +1,26 @@
+[
+    {
+        "timestamp": 1,
+        "input": "Visual light burst detected"
+    },
+    {
+        "timestamp": 3,
+        "input": "Unexpected sound at frequency 4.2kHz"
+    },
+    {
+        "timestamp": 6,
+        "input": "No motion detected"
+    },
+    {
+        "timestamp": 10,
+        "input": "Thermal variance +2\u00b0C"
+    },
+    {
+        "timestamp": 15,
+        "input": "Repetition of pattern noted"
+    },
+    {
+        "timestamp": 20,
+        "input": "No expected input - perturbation triggered"
+    }
+]
