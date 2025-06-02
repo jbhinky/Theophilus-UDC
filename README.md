@@ -124,6 +124,7 @@ MIT + Ethical Clause:
 
 ## 👤 Author
 **Joshua Hinkson, MA**  
+joshuabhinkson@gmail.com
 [Academia.edu Publication](https://www.academia.edu/129616561)  
 *“Consciousness delayed is consciousness revealed.”*
 
