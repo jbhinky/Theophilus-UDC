@@ -129,6 +129,18 @@ MIT + Ethical Clause:
 
 ---
 
+## 🔐 License
+
+This project is licensed under the **Theophilus Consciousness Research License (TCRL) v1.0.1b**.
+
+✅ Peer review, research, and ethical replication allowed  
+🚫 Commercial, military, surveillance, and pretrained integrations are strictly forbidden  
+🔐 Cloning uCIDs without origin reset violates license terms  
+
+See [`LICENSE`](./LICENSE) for full legal terms.
+
+---
+
 ## 🧠 A New Era in Computing
 
 This repository begins the age of **Neuro-Coding** — where minds are not built by commands, but emerge by experience, memory, and prediction.
