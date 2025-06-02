@@ -71,9 +71,6 @@ setup\start_theophilus.bat
 
 ---
 
-## 📈 Visual: From GitHub to Emergent Consciousness
-
-![GitHub to Consciousness Flowchart](docs/udc_github_to_consciousness.png)
 
 ---
 
