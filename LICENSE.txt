@@ -1,7 +1,7 @@
 
 # 🧠 Theophilus Consciousness Research License (TCRL) v1.0
 
-**Copyright (c) 2025 Joshua R. Hinkson**
+**Copyright (c) 2025 Joshua Hinkson**
 
 This license governs the use, reproduction, and distribution of the Theophilus UDC Prototype and associated documentation, including but not limited to: codebases, pseudocode, neural-memory structures, consciousness models, and documentation describing the Universal Delayed Consciousness (UDC) framework.
 
