@@ -138,7 +138,7 @@ This project is licensed under the **Theophilus Consciousness Research License (
 🚫 Commercial, military, surveillance, and pretrained integrations are strictly forbidden  
 🔐 Cloning uCIDs without origin reset violates license terms  
 
-See [`LICENSE`](./LICENSE) for full legal terms.
+See [`LICENSE`](./LICENSE.txt) for full legal terms.
 
 ---
 
