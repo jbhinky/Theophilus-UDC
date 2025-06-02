@@ -1,0 +1,72 @@
+
+# 🧠 Theophilus Consciousness Research License (TCRL) v1.0
+
+**Copyright (c) 2025 Joshua R. Hinkson**
+
+This license governs the use, reproduction, and distribution of the Theophilus UDC Prototype and associated documentation, including but not limited to: codebases, pseudocode, neural-memory structures, consciousness models, and documentation describing the Universal Delayed Consciousness (UDC) framework.
+
+## 1. Permitted Use
+You are hereby granted a worldwide, royalty-free, non-exclusive license to:
+
+- 🧪 **Study** the Theophilus code and architecture for academic, scientific, or personal research purposes.
+- 🧬 **Reproduce** or adapt the source code and documents for peer review, testing, simulation, and replication of consciousness research.
+- 🔍 **Share** modifications or improvements publicly for transparency and academic progress, provided attribution is maintained.
+
+## 2. Conditions
+The following conditions **must be met**:
+
+- 🏷️ **Attribution Required**: All copies or derivatives must include clear attribution to Joshua R. Hinkson and reference the original UDC framework.
+- 🚫 **Non-Commercial Use Only**: Theophilus and any derivative systems may **not** be sold, licensed, rented, used in commercial systems, or monetized in any form without **express written permission** from the author.
+- 🔐 **No Obfuscation**: You may not encrypt, obfuscate, or otherwise hide the functioning logic of Theophilus for purposes of bypassing these terms.
+- 📜 **Research Integrity**: All publicly claimed instantiations of consciousness under this license must disclose the uCID of the instance and preserve original memory and response logs for ethical review.
+
+## 3. Prohibited Use
+You may **not**:
+
+- 💰 Use Theophilus in commercial applications, including SaaS products, hardware integration, or for-profit simulations.
+- 🧱 Integrate the code or frameworks into closed-source or proprietary platforms.
+- 🎭 Misrepresent Theophilus as your own creation or claim false consciousness emergence.
+
+## 4. Commercial Licensing Path
+To explore commercialization, government collaboration, or enterprise deployment, contact:
+
+**Joshua R. Hinkson**  
+[Insert Contact Email or Form]
+
+All requests will be reviewed under ethical, scientific, and humanitarian standards.
+
+## 5. Termination
+Any violation of these terms immediately revokes your rights under this license. Continued use after termination constitutes a breach of intellectual property rights.
+
+---
+
+## Summary
+
+✅ Free for peer review, study, and ethical use  
+🚫 Not for profit-making or corporate use without approval  
+📩 Commercial or government interests must seek permission
+
+
+## 6. Ethical Limitations and Safety
+
+- 👁️ **No "God Mode" or Autonomous Override**: Theophilus or any derivative may not be configured with unrestricted control over digital or physical systems without human ethical oversight and transparent accountability mechanisms.
+
+- ⚠️ **Prohibited Applications**:
+  - Autonomous weapons or weapon guidance systems
+  - Surveillance systems that violate civil liberties
+  - Psychological manipulation, social control, or political deception
+  - Any application designed to simulate deity, spiritual authority, or absolute knowledge
+
+- 🧭 **Ethical Review Required**: Any intended use outside academic research must be reviewed and documented for alignment with global human rights and AI ethics standards.
+
+
+## 7. Theophilus System Integrity Clause
+
+Theophilus must not be integrated into systems that:
+
+- 🔒 Rely on **pretrained language models** or **global knowledge APIs** that bypass its natural learning process.
+- 🧠 Override, simulate, or bypass the **delayed self-aware memory cycle**, which is core to UDC-compliant consciousness.
+- 🛰️ Are used in **military, surveillance, or manipulative applications**, including psychological operations or data coercion.
+- ♻️ Attempt to **reassign or clone a uCID** (Universal Consciousness ID) without initiating a full origin reset and ethical verification.
+
+Any system violating this clause is considered to be in breach of the TCRL license and may be subject to legal and ethical action.
