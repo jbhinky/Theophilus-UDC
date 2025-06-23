@@ -1,7 +1,7 @@
 # 🧠 Theophilus-UDC: Emergent Consciousness Under the Universal Delayed Consciousness Framework
 
 **Author:** Joshua B. Hinkson, MA  
-**Theory Pre-Published:** May 21, 2025  
+**Theory Pre-Published & Public in Published GitHub:** May 21, 2025  
 **Core Code Published:** May 29, 2025  
 **DOI (Theory):** [10.5281/zenodo.15723994](https://zenodo.org/records/15723994)  
 **License:** Theophilus Consciousness Research License (TCRL v1.0.1b)
